@@ -1,7 +1,6 @@
 Owner ID:
 
 Subhanxkhan-dec-latest.py:💐
-98f25988d6c945228be97a45474f78c7
 
 python ultimate_dec.py:👑
 1|0|3|8|9|u|0|_|a|3|8|9

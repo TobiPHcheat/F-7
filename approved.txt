@@ -4,14 +4,14 @@ Subhanxkhan-dec-latest.py:💐
 
 python ultimate_dec.py:👑
 1|0|3|8|9|u|0|_|a|3|8|9
-
+1|0|3|3|4|u|0|_|a|3|3|4
+1|0|8|1|8|u|0|_|a|8|1|8
+1|0|3|0|7|u|0|_|a|3|0|7
 
 Master:
 1|0|4|4|8|u|0|_|a|4|4|8
 
 
-1|0|8|1|8|u|0|_|a|8|1|8
-1|0|3|0|7|u|0|_|a|3|0|7
 3c30ce0c3e+IMTIAZ==
 AHSAN-ALE-BC01BD6C9A-M4786==
 KTMrD1A7125DF5-M4786==

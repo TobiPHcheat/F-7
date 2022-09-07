@@ -12,7 +12,7 @@ python ultimate_dec.py:👑
 Master:
 1|0|4|4|8|u|0|_|a|4|4|8
 
-
+1|0|3|2|1|u|0|_|a|3|2|1
 3c30ce0c3e+IMTIAZ==
 AHSAN-ALE-BC01BD6C9A-M4786==
 KTMrD1A7125DF5-M4786==
